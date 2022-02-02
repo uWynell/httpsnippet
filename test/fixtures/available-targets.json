@@ -244,6 +244,20 @@
     ]
   },
   {
+    "key": "rust",
+    "title": "Rust",
+    "extname": ".rs",
+    "default": "reqwest",
+    "clients": [
+      {
+        "key": "reqwest",
+        "title": "Reqwest",
+        "link": "https://docs.rs/reqwest/",
+        "description": "HTTP Request using Reqwest library for Rust"
+      }
+    ]
+  },
+  {
     "key": "csharp",
     "title": "C#",
     "extname": ".cs",
